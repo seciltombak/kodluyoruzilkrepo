@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![github](Adsız/github.png)
+![github](Adsız.png)
 # Installation
 ```bash
 git clone https://github.com/seciltombak/kodluyoruzilkrepo
